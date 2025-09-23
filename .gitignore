@@ -1,7 +1,6 @@
 # Ignore database dumps
 *.tar
 *.dump
-*.sql
 
 # Python junk
 __pycache__/
